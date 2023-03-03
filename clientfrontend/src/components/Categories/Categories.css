@@ -1,0 +1,7 @@
+.categories{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    background-color: #fbf0f4;
+}

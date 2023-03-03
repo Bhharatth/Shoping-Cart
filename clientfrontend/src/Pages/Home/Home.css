@@ -1,0 +1,12 @@
+.featuredProducts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(141, 203, 203);
+    color: #fff;
+    height: 60px;
+    padding: 0 20px;
+  }
+  .featuredTitle{
+    font-size: 24px;
+  }
