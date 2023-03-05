@@ -49,3 +49,13 @@
     background-color: gray;
     color: white;
   }
+  .cardContainer {
+    position: relative;
+  }
+  
+  .cardContainer i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
